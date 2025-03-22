@@ -1,8 +1,8 @@
 {
   "glbRepoUsername": "Beb-Tools",
   "glbRepoName": "Beb-Tools.glb",
-  "supabaseUrl": "YOUR_SUPABASE_URL_HERE",
-  "supabaseAnonKey": "YOUR_SUPABASE_ANON_KEY_HERE",
+  "supabaseUrl": "https://yrxaubjkwbxuqmzcodey.supabase.co",
+  "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlyeGF1Ymprd2J4dXFtemNvZGV5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDI2MDQ3NTMsImV4cCI6MjA1ODE4MDc1M30.DUSp13ylokuOQKlZHd8ut7HzVEOx2utDe3WzioP99XE",
   "siteTitle": "Beb-Tools",
   "thumbnailPath": "thumbnail.jpg",
   "siteRepoOwner": "Beb-Tools",
