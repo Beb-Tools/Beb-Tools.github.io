@@ -1,10 +1,10 @@
 {
-  "glbRepoUsername": "GlbToolsTemplate",
-  "glbRepoName": "glb-example-repo",
-  "supabaseUrl": "https://ejuqhyqdnihljdzwrkrj.supabase.co",
-  "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVqdXFoeXFkbmlobGpkendya3JqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDI0MTcxNTYsImV4cCI6MjA1Nzk5MzE1Nn0._qsE30twViyp9ctFmks9GjK2Oq-IWujR1HFLkKYTwfk",
-  "siteTitle": "Clone.Tools",
+  "glbRepoUsername": "Beb-Tools",
+  "glbRepoName": "Beb-Tools.glb",
+  "supabaseUrl": "YOUR_SUPABASE_URL_HERE",
+  "supabaseAnonKey": "YOUR_SUPABASE_ANON_KEY_HERE",
+  "siteTitle": "Beb-Tools",
   "thumbnailPath": "thumbnail.jpg",
-  "siteRepoOwner": "GlbToolsTemplate",
-  "websiteRepoName": "GlbToolsTemplate.github.io"
+  "siteRepoOwner": "Beb-Tools",
+  "websiteRepoName": "Beb-Tools.github.io"
 }
